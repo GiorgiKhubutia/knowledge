@@ -77,3 +77,4 @@ COMMIT — фиксируем изменения.
 ROLLBACK — откатывает все изменения.
 
 
+- [Data Typ](https://metanit.com/sql/sqlserver/3.3.php)
