@@ -115,3 +115,5 @@ ROLLBACK — откатывает все изменения.
 
  безопасность баз данных. 
  
+ 
+ - [Sql Joins](https://www.quora.com/What-are-the-JOINs-in-SQL-and-their-uses)
