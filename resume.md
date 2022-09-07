@@ -5,18 +5,31 @@
 [giokhubutia@gmail.com](mailto:giokhubutia@gmail.com)<br/> 
 **Experience: 2-3 month** <br/>
 
-### Skils/Tools
-- Agli/Scrum
-- SQl
-- jira
-- Microsoft Themes
+## About Me
+      .....
+
+### Knowladeg & Skils & Tools
+- SSMS/SQL/Profiler
+- Potmen
+- Jira/Trello
+- Microsoft Themes/Slack
+- Excel/Word
+- Miro/Markdown
+- Agli/Scrum 
 
 
 
-### Experience 
+## Jobs
+
+### Comany Name
 - თელეფონების პროგრამული უზრუნველყოფა აპლიკაციებიეს ინსტალაცია ოერაციული სიტემების შეცვლა IOS/Android. 
 - 
 - საწყობის მენეჯერი საქონლის მიღება, ხარისხის კონტროლი, მონაცემთა ბაზაში აღრიცხვა, შეკვეთების მიღება, დამზადება, სამუშაო პროცესის სტრუკტურირება.
+      
+### Comn
+-
+-
+-
       
 ### Language
 - Russion - native
