@@ -11,7 +11,7 @@ Deep immersion in the IT industry to understand all development processes and fu
 
 ### Skills & Tools
 - SQL/SQL Server Managment Studio/Profiler
-- HTTP/Potman/Swagger
+- HTTP/Postman/Swagger
 - JSON/CSV
 - Microsoft Teams/Slack
 - Excel/Word/VSCode
