@@ -4,7 +4,7 @@
 *Georgia / Tbilisi / Tel: +995 568 31 42 24* <br/>
 [giokhubutia@gmail.com](mailto:giokhubutia@gmail.com)<br/> 
 **Experience: 1-2 month** <br/>
-[Linkedin](https://www.linkedin.com/feed/), [Github](https://github.com/GiorgiKhubutia)
+[Linkedin](linkedin.com/in/gio-khubutia-9718b3187), [Github](https://github.com/GiorgiKhubutia)
 
 ### About Me <br/>
 Deep immersion in the IT industry to understand all development processes and further participation in the development of the application
@@ -27,10 +27,13 @@ Deep immersion in the IT industry to understand all development processes and fu
 - Installing and Cleaning Apps
 
 ### FreshMart (1+ year)
-- თელეფონების პროგრამული უზრუნველყოფა აპლიკაციებიეს ინსტალაცია ოერაციული სიტემების შეცვლა IOS/Android. 
-- საწყობის მენეჯერი საქონლის მიღება, ხარისხის კონტროლი, მონაცემთა ბაზაში აღრიცხვა, შეკვეთების მიღება, დამზადება, სამუშაო პროცესის სტრუკტურირება.
--
--
+- acceptance of goods 
+- product quality control
+- adding product data to the database
+- receiving an order preparing / delivering
+- Goods accounting
+- structuring the workflow
+
       
 ### Languages
 - Georgian native
