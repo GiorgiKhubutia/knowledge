@@ -1,25 +1,23 @@
 # Giorgi Khubutia
-####  JUNIOR TESTER
+##  JUNIOR TESTER
 
 *Georgia / Tbilisi / Tel: +995 568 31 42 24* <br/>
 [giokhubutia@gmail.com](mailto:giokhubutia@gmail.com)<br/> 
-**Experience: 1-2 month** <br/>
-[Linkedin](linkedin.com/in/gio-khubutia-9718b3187), [Github](https://github.com/GiorgiKhubutia)
+Experience: 1-2 month <br/>
+[Github](https://github.com/GiorgiKhubutia), [Linkedin](https://www.linkedin.com/in/gio-khubutia-9718b3187)
 
-### About Me <br/>
+
+## About Me
 Deep immersion in the IT industry to understand all development processes and further participation in the development of the application
 
-### Skills & Tools
-- SQL/SQL Server Managment Studio/Profiler
-- HTTP/Postman/Swagger
-- JSON/CSV
-- Chrome Devtools
-- Fiddler
-- Microsoft Teams/Slack
-- Excel/Word/VSCode
-- Miro/Markdown
-- Jira/Confluence/Trello
-- Agile/Scrum 
+# Skills & Tools
+- T-SQL / SQL Server Managment Studio / Profiler
+- HTTP / Postman / Swagger
+- JSON / XML / CSV
+- Chrome / Dev Tools / Fiddler
+- Microsoft Teams / Slack / Excel / Word / VS Code
+- Jira / Trello / Confluence / Miro / Markdown
+- Agile / Scrum 
 
 # Jobs
 
@@ -29,13 +27,9 @@ Deep immersion in the IT industry to understand all development processes and fu
 - Installing and Cleaning Apps
 
 ### FreshMart (1+ year)
-- receiving goods
-- product quality control
-- adding product data to the database
-- receiving an order preparing / delivering
-- Goods accounting
-- structuring the workflow
-
+- Adding Product Data to the Database (ERP Application)
+- Structuring the Workflow
+- Manage Team (2-3 member)
       
 ### Languages
 - Georgian native
