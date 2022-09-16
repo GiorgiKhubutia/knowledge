@@ -27,7 +27,7 @@ Deep immersion in the IT industry to understand all development processes and fu
 - Installing and Cleaning Apps
 
 ### FreshMart (1+ year)
-- acceptance of goods 
+- receiving goods
 - product quality control
 - adding product data to the database
 - receiving an order preparing / delivering
