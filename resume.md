@@ -13,11 +13,13 @@ Deep immersion in the IT industry to understand all development processes and fu
 - SQL/SQL Server Managment Studio/Profiler
 - HTTP/Postman/Swagger
 - JSON/CSV
+- Chrome Devtools
+- Fiddler
 - Microsoft Teams/Slack
 - Excel/Word/VSCode
 - Miro/Markdown
 - Jira/Confluence/Trello
-- Agli/Scrum 
+- Agile/Scrum 
 
 # Jobs
 
